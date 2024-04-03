@@ -1,2 +1,2 @@
 # pythondataanalysisqueries
-Well... my first real project here.. (TEST)
+Well... my first Testing project for Data Analysis with Laptops Datasets from kaggle here.. (TEST)
